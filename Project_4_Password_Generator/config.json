@@ -1,0 +1,9 @@
+{
+    "default_length": 15,
+    "exclude_characters": "!@#",
+    "include_uppercase": true,
+    "include_lowercase": true,
+    "include_digits": true,
+    "include_special": true
+  }
+  
